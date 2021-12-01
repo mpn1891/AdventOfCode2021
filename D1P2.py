@@ -11,12 +11,10 @@ with open(r"C:\Users\mpn42\source\repos\AdventOfCode2021\AdventOfCode2021\Input 
 
 for i in range(len(array)-3):
     windowA = array[i] + array[i+1] + array[i+2]
-    windowB = array[i+1] + array[i+2] +array[i+3]
+    windowB = array[i+1] + array[i+2] + array[i+3]
 
     if windowB > windowA:
         answer =+ answer + 1
 
-    windowA = 0
-    windowB = 0
 
 print (answer)
