@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3a5f1d69-112d-4f43-9404-4d331979dac6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AdventOfCode2021.py</StartupFile>
+    <StartupFile>D1P2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AdventOfCode2021.py" />
+    <Compile Include="D1P1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="D1P2.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
