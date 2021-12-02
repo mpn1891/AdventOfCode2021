@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3a5f1d69-112d-4f43-9404-4d331979dac6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>D1P2.py</StartupFile>
+    <StartupFile>D2P2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="D1P2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="D2P1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="D2P2.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
