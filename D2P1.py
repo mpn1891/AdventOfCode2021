@@ -10,7 +10,6 @@ with open(r"C:\Users\mpn42\source\repos\AdventOfCode2021\AdventOfCode2021\Input 
     for val in f.read().split():
         array.append(str(val))  
         
-print(array)
 for i in range(len(array)):
     if array[i] == 'forward':
         x = x + int(array[i+1])
