@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3a5f1d69-112d-4f43-9404-4d331979dac6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>D3P2.py</StartupFile>
+    <StartupFile>D6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -37,6 +37,21 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="D3P2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="D4P1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="D4P2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="D5P2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="D5P1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="D6.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
