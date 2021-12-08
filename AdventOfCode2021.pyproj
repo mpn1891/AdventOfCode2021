@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3a5f1d69-112d-4f43-9404-4d331979dac6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>D7.py</StartupFile>
+    <StartupFile>D8P2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -55,6 +55,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="D7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="D8.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="D8P2.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
